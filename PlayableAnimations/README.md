@@ -18,5 +18,7 @@ On keyboard:
 * turn left = a
 * turn right = d
 
+```
 From concept to game - 1.5 months 
 Easter Eggs: 1
+```

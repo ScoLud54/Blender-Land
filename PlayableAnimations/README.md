@@ -3,7 +3,7 @@ Game Designed by Team Kaiju using 3d model and animations of Kaiju Dino
 
 Animations and general movement are better on a controller
 
-pause/pause menu: 
+**pause/pause menu**: 
 esc key
 
 on controller:

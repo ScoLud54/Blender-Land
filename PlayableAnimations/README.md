@@ -1,4 +1,4 @@
-Game Designed by Team Kaiju using 3d model and animations of Kaiju Dino
+Game Designed by Team Kaiju using 3d model and animations of Kaiju Dino (`not all animations found in-game but are in blender files`)
 
 
 Animations and general movement are better on a controller

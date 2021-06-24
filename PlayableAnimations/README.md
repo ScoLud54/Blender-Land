@@ -3,8 +3,7 @@ Game Designed by Team Kaiju using 3d model and animations of Kaiju Dino (`not al
 
 Animations and general movement are better on a controller
 
-**pause/pause menu**: 
-esc key
+**pause/pause menu**: esc key
 
 on controller:
 * tilt world left = left bumper

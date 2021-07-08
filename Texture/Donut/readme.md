@@ -7,3 +7,9 @@ Timeline:
 2) Materials and Specular (sheen coming off of donut)
 
 ![Donut-On-Pink](https://user-images.githubusercontent.com/43918579/124438747-71f3c500-dd2d-11eb-83b5-dda49869f8e7.png)
+
+3a) Randomized color pallete within range + nodes
+![Donut-With-Sprinkles](https://user-images.githubusercontent.com/43918579/124881608-68b06580-df84-11eb-8385-e916f5c1fd4a.png)
+
+
+3b) Texture Painting 

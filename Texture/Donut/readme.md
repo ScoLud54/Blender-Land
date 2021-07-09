@@ -13,5 +13,6 @@ Timeline:
 
 
 3b) Texture Painting 
+
 Honestly looks the same - should have made the donut darker
 ![Donut-With-Texture-Paint](https://user-images.githubusercontent.com/43918579/125050710-13915400-e057-11eb-882f-b207e772a6bf.png)

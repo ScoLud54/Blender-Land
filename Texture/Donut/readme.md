@@ -1,5 +1,12 @@
 Blender-File: **Blender-Donut** *repo* `Blender-Land is too large now to contain other blender files inside`
 
+Final Image:
+
+`RIP Computer 2021`
+
+![Final-Donut](https://user-images.githubusercontent.com/43918579/125918978-b23e6ae1-0a4b-484a-9ddb-94a6e94ad4ad.png)
+
+
 Timeline:
 
 1) Basic Modifiers - lacking major details
@@ -18,3 +25,4 @@ Timeline:
 
 Honestly looks the same - should have made the donut darker
 ![Donut-With-Texture-Paint](https://user-images.githubusercontent.com/43918579/125050710-13915400-e057-11eb-882f-b207e772a6bf.png)
+

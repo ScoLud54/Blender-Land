@@ -1,4 +1,4 @@
-Blender-File: **Blender-Donut** *repo* `Blender-Land is too large now to contain other blender files inside`
+Blender-File: **Blender-Donut ?** `The file is too large to be hosted on github (around 4GB for entire render file) and cannot be hosted on github`
 
 Final Image:
 
